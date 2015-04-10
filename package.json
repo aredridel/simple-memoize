@@ -1,0 +1,27 @@
+{
+  "name": "simple-memoize",
+  "version": "1.0.0",
+  "description": "Memoize a node-style async function",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aredridel/simple-memoize.git"
+  },
+  "keywords": [
+    "async",
+    "memoize"
+  ],
+  "author": "Aria Stewart <aredridel@nbtsc.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aredridel/simple-memoize/issues"
+  },
+  "homepage": "https://github.com/aredridel/simple-memoize#readme",
+  "devDependencies": {
+    "es6-map": "^0.1.1",
+    "tape": "^4.0.0"
+  }
+}
