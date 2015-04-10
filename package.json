@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/aredridel/simple-memoize#readme",
   "devDependencies": {
-    "es6-map": "^0.1.1",
     "tape": "^4.0.0"
+  },
+  "dependencies": {
+    "es6-map": "^0.1.1"
   }
 }
