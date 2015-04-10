@@ -1,6 +1,6 @@
 {
   "name": "simple-memoize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Memoize a node-style async function",
   "main": "index.js",
   "scripts": {
